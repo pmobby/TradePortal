@@ -1,0 +1,327 @@
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\ApplicationInsights.config
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\csc.exe
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\csi.exe
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\TradeApi.dll.config
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\TradeApi.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\TradeApi.pdb
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\AutoMapper.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\EntityFramework.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Owin.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Owin.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\WebGrease.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\AutoMapper.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\EntityFramework.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Owin.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\TradeApi\TradeApi\obj\Release\TradeApi.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\obj\Release\TradeApi.pdb
+C:\Users\user\Desktop\TradeApi\TradeApi\obj\Release\TradeApi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Cors.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\ApplicationInsights.config
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\csc.exe
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\csc.exe.config
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\csc.rsp
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\csi.exe
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\csi.rsp
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\System.AppContext.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\vbc.exe
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\vbc.exe.config
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\vbc.rsp
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\TradeApi.dll.config
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\TradeApi.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\TradeApi.pdb
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Antlr3.Runtime.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\AutoMapper.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\EntityFramework.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Newtonsoft.Json.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Owin.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Cors.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Helpers.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Cors.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Owin.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Mvc.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Optimization.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Razor.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\WebGrease.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\AutoMapper.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Cors.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Newtonsoft.Json.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Helpers.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Mvc.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Optimization.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Razor.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Antlr3.Runtime.pdb
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\EntityFramework.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\System.Web.Http.Owin.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\obj\Release\TradeApi.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\obj\Release\TradeApi.dll
+C:\Users\Patrick\Desktop\TradeApi\TradeApi\obj\Release\TradeApi.pdb
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\ApplicationInsights.config
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\csc.exe
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\csc.exe.config
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\csc.rsp
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\csi.exe
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\csi.rsp
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\System.AppContext.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\vbc.exe
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\vbc.exe.config
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\vbc.rsp
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\TradeApi.dll.config
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\TradeApi.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\TradeApi.pdb
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Antlr3.Runtime.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\AutoMapper.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\EntityFramework.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.Web.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Newtonsoft.Json.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Owin.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Cors.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Helpers.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.Cors.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.Owin.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Mvc.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Optimization.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Razor.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.WebPages.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\WebGrease.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Antlr3.Runtime.pdb
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\AutoMapper.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Newtonsoft.Json.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.Cors.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Optimization.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Helpers.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Mvc.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Razor.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.WebPages.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\EntityFramework.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\System.Web.Http.Owin.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\bin\Microsoft.AI.Web.xml
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\obj\Release\TradeApi.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\obj\Release\TradeApi.dll
+C:\Users\Patrick\Desktop\Projects\TP-API\TP API\TradeApi\TradeApi\obj\Release\TradeApi.pdb
